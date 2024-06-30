@@ -4,16 +4,24 @@ Repository Tracker v.1
 
 Repository Key Stages: (Local - version of the repo that stored on your computer)
 
-	Modifying Area 
-		CLI: git status --> check the status of the git status
 	Staging Area
-		CLI: git add --> 
+		CLI: git status --> check the status of the git status
+	Modifying Area
+		CLI: git add . --> add the changes on the CLI or git local repository.
+			       --> Example: You have added changes on this file.txt with a repository v.2
+			       --> Once you have made the changes ont the file.txt, try again the "git status" it will show modified.
+		or
+		CLI: git add "filename" --> add the changes on the CLI or git local repository.
+					--> Example: You have added changes on this file.txt with a repository v.2
+					--> Once you have made the changes ont the file.txt, try again the "git status" it will show modified.
+	Committing Area
+		CLI: git commit -m --> Add remarks to the changes on your repository.
 
 Repository Key Stages: (Remote - version of the repo that stored on server or cloud-based platform [GitHub])
 
-	Modifying Area
+	Modifying Area 
 		CLI: 
-	Staging Area
+	Staging Area 
 		CLI: 
 
 ----------------------------------------------------------------------------------------------

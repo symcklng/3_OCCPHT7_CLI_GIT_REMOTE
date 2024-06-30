@@ -15,7 +15,7 @@ Repository Key Stages: (Local - version of the repo that stored on your computer
 					--> Example: You have added changes on this file.txt with a repository v.2
 					--> Once you have made the changes ont the file.txt, try again the "git status" it will show modified.
 	Committing Area
-		CLI: git commit -m --> Add remarks to the changes on your repository.
+		CLI: git commit -m --> Add remarks to the git (local) for the changes on your repository.
 
 Repository Key Stages: (Remote - version of the repo that stored on server or cloud-based platform [GitHub])
 

@@ -18,6 +18,7 @@ Repository Key Stages: (Local - version of the repo that stored on your computer
 		CLI: git commit -m --> Add remarks to the git (local) for the changes on your repository.
 	Staging Area
 		CLI: git log --> see the remarks you have added in your repository.
+		     git log --oneline --> see the remarks you have added in your repository sorted by line.
 
 Repository Key Stages: (Remote - version of the repo that stored on server or cloud-based platform [GitHub])
 

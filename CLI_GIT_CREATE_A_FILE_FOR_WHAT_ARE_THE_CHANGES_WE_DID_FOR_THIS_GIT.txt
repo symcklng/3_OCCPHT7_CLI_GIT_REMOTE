@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------
+Repository Tracker v.1
+----------------------------------------------------------------------------------------------
+
+Repository Key Stages: (Local - version of the repo that stored on your computer)
+
+	Modifying Area 
+		CLI: git status --> check the status of the git status
+	Staging Area
+		CLI: git add --> 
+
+Repository Key Stages: (Remote - version of the repo that stored on server or cloud-based platform [GitHub])
+
+	Modifying Area
+		CLI: 
+	Staging Area
+		CLI: 
+
+----------------------------------------------------------------------------------------------
+Repository Tracker v.2
+----------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------
+Repository Tracker v.2
+----------------------------------------------------------------------------------------------

@@ -23,9 +23,27 @@ Repository Key Stages: (Local - version of the repo that stored on your computer
 Repository Key Stages: (Remote - version of the repo that stored on server or cloud-based platform [GitHub])
 
 	Modifying Area 
-		CLI: 
+		Github Page (will automatically create):
+		git init
+                git add README.md
+	Committing Area
+		GitHub Page (will automatically create):
+		git commit -m "first commit"
 	Staging Area 
-		CLI: 
+		Github Page (will automically create):
+		git branch -M main
+	Modifying Area
+		GitHub Page (will automically create):
+		git remote add origin https://github.com/symcklng/3_OCCPHT7_CLI_GIT_REMOTE.git
+	Staging Area
+		GitHub Page (will automically create):
+		git push -u origin main
+
+	if existing in the GitHub page:
+		git remote add origin https://github.com/symcklng/3_OCCPHT7_CLI_GIT_REMOTE.git
+		git branch -M main
+		git push -u origin main
+	
 
 ----------------------------------------------------------------------------------------------
 Repository Tracker v.2

@@ -49,7 +49,11 @@ Repository Key Stages: (Remote - version of the repo that stored on server or cl
 Repository Tracker v.2
 ----------------------------------------------------------------------------------------------
 
+	So will try to connect your git remote create on the website to your local storage
+	so if ever you will create any changes on the local git it will affect the cloud git.
 
+	CLI: (Modifying Stage) --> git remote add origin https://github.com/symcklng/3_OCCPHT7_CLI_GIT_REMOTE.git
+	
 
 ----------------------------------------------------------------------------------------------
 Repository Tracker v.2
